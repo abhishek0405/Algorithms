@@ -11,6 +11,15 @@ A)Recursion
 
 3)Recursive solution for Subsequence Generation
 
+B)Backtracking
+
+1)NQUEEN
+
+2)PERMUTATION
+
+3)SUDOKU SOLVER
+
+
 
 
 
