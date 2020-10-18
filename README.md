@@ -19,6 +19,8 @@ B)Backtracking
 
 3)SUDOKU SOLVER
 
+C)GREEDY ALGORITHMS
+
 
 
 
